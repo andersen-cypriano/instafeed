@@ -3,7 +3,7 @@ import clientPromise from "../lib/mongodb";
 export default function Movies({ movies }) {
     return (
         <div>
-            <p>Teste Push</p>
+            <p>Teste Push2</p>
             <ul>
                 {movies.map((movie) => (
                     <li>
